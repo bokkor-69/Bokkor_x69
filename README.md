@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Node.js+%26+Advanced+Bot+Architect;API+Developer+%26+Automation+Expert" alt="Typing SVG" />
 </p>
 
-<!-- 1. Profile Visitor Counter & Social Badges -->
+<!-- Profile Visitor Counter & Social Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bokkor-69&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/bokkor-69?label=Followers&style=flat-square&color=blue" alt="Followers" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/forks/bokkor-69?style=flat-square&color=orange" alt="Forks" />
 </p>
 
-<!-- 2. Stylish Social Links -->
+<!-- Stylish Social Links -->
 <p align="center">
   <a href="https://www.facebook.com/bokkor.ahmed.69" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" /></a>
 </p>
@@ -26,7 +26,6 @@
 
 ---
 
-<!-- 5. Detailed Tech Stack (Categorized) -->
 ### 🛠️ Tech Stack & Tools
 
 * **Backend & Runtime:** <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -36,24 +35,21 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bokkor-69&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" />
-</p>
-
----
-
-<!-- 4. Coding Activity & Stats -->
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=bokkor-69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokkor-69&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bokkor-69&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bokkor-69/bokkor-69/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
