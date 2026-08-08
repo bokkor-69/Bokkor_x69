@@ -16,8 +16,6 @@
       </p>
       <p>
         <a href="https://www.facebook.com/bokkor.ahmed.69" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" /></a>
-        <a href="https://t.me/bokkorx69" target="_blank"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white" /></a>
-        <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -41,25 +39,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bokkor-69&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" />
-</p>
-
----
-
 ### 📊 GitHub Stats & Metrics (Side by Side)
 
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=bokkor-69&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokkor-69&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bokkor-69&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bokkor-69&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
