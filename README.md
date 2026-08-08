@@ -35,27 +35,20 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Stats & Metrics (Side by Side)
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bokkor-69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bokkor-69&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bokkor-69/bokkor-69/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<!-- টেবিল ট্যাগ ব্যবহার করে ইমেজগুলো পাশাপাশি বা সুন্দরভাবে সাজানো হয়েছে -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=bokkor-69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bokkor-69&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bokkor-69&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bokkor-69&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
