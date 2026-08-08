@@ -65,7 +65,7 @@
 
 ### 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bokkor-69/bokkor-69/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
