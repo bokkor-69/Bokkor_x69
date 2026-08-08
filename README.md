@@ -37,10 +37,9 @@
 
 ### 📊 GitHub Stats & Metrics (Side by Side)
 
-<!-- টেবিল ট্যাগ ব্যবহার করে ইমেজগুলো পাশাপাশি বা সুন্দরভাবে সাজানো হয়েছে -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=bokkor-69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=bokkor-69&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bokkor-69&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
   </tr>
 </table>
