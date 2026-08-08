@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Node.js+%26+Advanced+Bot+Architect;API+Developer+%26+Automation+Expert" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="./assets/myphoto.jpg" width="200" style="border-radius: 50%;" alt="My Photo" />
+</p>
+
 <!-- Profile Visitor Counter & Social Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bokkor-69&style=flat-square&color=blue" alt="Profile Views" />
